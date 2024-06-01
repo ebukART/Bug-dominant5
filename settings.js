@@ -29,7 +29,7 @@ global.themeemoji = '🫶🏽🥷🏽'
 global.wm = "godspower Bot Inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm'
+global.link = 'https://chat.whatsapp.com/BmR7ddjPv7Y2zMyCxn4HFH'
 
 //custom prefix
 global.prefa = ['!','.','#','&']
